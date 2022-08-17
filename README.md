@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ishankrs
-- 👀 I’m interested in ... python and general programming
-- 🌱 I’m currently learning ... Computer science
+- 👋 Hi, I’m @ishankrs (Ishan) | Hallo , ich bin @ishankrs (Ishan)
+- 👀 I’m interested in -> python and general programming |  Ich interessiere mich für -> Python und allgemeine Programmierung
+- 🌱 I’m currently learning ... Computer science | Ich lerne gerade ... Informatik
 
 <!---
 ishankrs/ishankrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
