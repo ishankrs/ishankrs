@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishankrs (Ishan) | Hallo , ich bin @ishankrs (Ishan)
-- 👀 I’m interested in -> python and general programming |  Ich interessiere mich für -> Python und allgemeine Programmierung
+- 👀 I’m interested in -> python and general programming |  Ich interessiere mich für  python und allgemeine programmierung
 - 🌱 I’m currently learning ... Computer science | Ich lerne gerade ... Informatik
 
 <!---
